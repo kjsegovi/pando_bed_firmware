@@ -1,0 +1,9 @@
+{
+    "idf.currentSetup": "/Users/kjsegovi/.espressif/v6.1/esp-idf",
+    "clangd.path": "/Users/kjsegovi/.espressif/tools/esp-clangd/esp-21.1.3_20260408/esp-clangd/bin/clangd",
+    "clangd.arguments": [
+      "--background-index",
+      "--query-driver=**",
+      "--compile-commands-dir=/Users/kjsegovi/Projects/pando_bed_firmware/build"
+    ]
+}

@@ -1,0 +1,6 @@
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=/Users/kjsegovi/Projects/pando_bed_firmware/build/specs/picolibc.specs"
+-fno-rtti

@@ -1,0 +1,2 @@
+source /Users/kjsegovi/Projects/pando_bed_firmware/build/gdbinit/symbols
+source /Users/kjsegovi/Projects/pando_bed_firmware/build/gdbinit/connect
